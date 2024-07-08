@@ -26,7 +26,7 @@ return {
             dim_inactive = false,       -- dims inactive windows
             lualine_bold = false,       -- When `true`, section headers in the lualine theme will be bold
             on_colors = function(colors)
-                colors.fg = "#f0c0f5"
+                --colors.fg = "#f0c0f5"
             end,
 
             on_highlights = function(hl, c)
